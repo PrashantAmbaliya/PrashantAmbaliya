@@ -15,4 +15,4 @@ In addition to the technologies mentioned above, I'm also proficient in the foll
 - JavaScript, Go, Java, Python
 
 ## 📫 How to reach me
-Feel free to reach out to me via [email](mailto:prashantambaliya226@gmail.com@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prashant-a-889590228).>
+Feel free to reach out to me via [email](mailto:prashantambaliya226@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/prashant-a-889590228).>
